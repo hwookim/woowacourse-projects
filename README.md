@@ -8,39 +8,6 @@
 
 >  [우아한테크코스](https://woowacourse.github.io/)에서 학습한 내용을 정리하는 Repository
 
-<br/>
-
-## ⏳ Level 0 : 프리코스
-
-### 기간
-
-- 2019.11.27 ~ 2019.12.17
-
-### 진행 미션
-
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/hwookim/java-baseball-precourse) | [Pull Request](https://github.com/woowacourse/java-baseball-precourse/pull/209) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/hwookim/java-racingcar-precourse) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/76) |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/hwookim/java-lotto) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/207) |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/hwookim/java-blackjack-precourse) | [Pull Request](https://github.com/woowacourse/java-blackjack-precourse/pull/38) |
-
-<br/>
-
-## ⌛️ Level 0.5 : 오프라인 테스트
-
-### 기간
-
-- 2019.12.24
-
-### 진행 미션
-
-| Project |                          Repository                          |                         Pull Request                         |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/hwookim/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/1) |
-
-<br/>
-
 ## 🥚 Level 1 : 프로그래밍 기본
 
 ### 기간
@@ -66,11 +33,10 @@
 |  블랙잭 / step2  | [java-blackjack/step2](https://github.com/hwookim/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/104) |
 |   체스 / step1   | [java-chess/step1](https://github.com/hwookim/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/61) |
 |   체스 / step2   | [java-chess/step2](https://github.com/hwookim/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/155) |
-|   90년생 HTML    |            [html](https://github.com/hwookim/html)            | [Pull Request](https://github.com/woowacourse/html/pull/50)  |
 
 <br/>
 
-## 🐣 Level 2 : 웹 프로그래밍과 미니 팀 프로젝트
+## 🐣 Level 2 : 웹 프로그래밍
 
 ### 기간
 
@@ -81,7 +47,6 @@
 - Spring 프레임워크 기반으로 웹 애플리케이션을 개발하는 경험을 한다.
 - TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩토링하는 경험을 한다.
 - 구현한 프로그램을 서버에 배포하는 경험을 한다.
-- 팀 프로젝트를 통해 팀원들간의 소통, 협업, 회고 경험을 한다.
 
 ### 진행 미션
 
@@ -95,8 +60,6 @@
 |   지하철 경로 조회   | [atdd-subway-path](https://github.com/hwookim/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/47) |
 | 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/hwookim/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/52) |
 |  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/hwookim/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/54) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/hwookim/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/51) |
-|      Todo List       |        [todolist](https://github.com/hwookim/todolist)        |                       comming soon...                        |
 
 <br/>
 
@@ -104,7 +67,7 @@
 
 ### 발표 주제 : 빌드와 배포
 
-- [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
+- [우의 Sync Async Block Non-block || Youtube](https://www.youtube.com/watch?v=IdpkfygWIMk&list=PLaKTYW5EVqRfSpfHML3RxpVo8dIrGvxis&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 
 ## 🐥 Level 3 : 팀 프로젝트
 
