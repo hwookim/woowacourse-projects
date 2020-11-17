@@ -25,14 +25,14 @@
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/hwookim/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/44) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/hwookim/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/93) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/hwookim/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/161) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/hwookim/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/178) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/hwookim/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/26) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/hwookim/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/104) |
-|   체스 / step1   | [java-chess/step1](https://github.com/hwookim/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/61) |
-|   체스 / step2   | [java-chess/step2](https://github.com/hwookim/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/155) |
+|  문자열 계산기   | [java-calculator](https://github.com/hwookim/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/36) |
+| 자동차 경주 게임 |  [java-racingcar](https://github.com/hwookim/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/76) |
+|   로또 / step1   | [java-lotto/step1](https://github.com/hwookim/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/164) |
+|   로또 / step2   | [java-lotto/step2](https://github.com/hwookim/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/207) |
+|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/hwookim/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/54) |
+|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/hwookim/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/71) |
+|   체스 / step1   | [java-chess/step1](https://github.com/hwookim/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/89) |
+|   체스 / step2   | [java-chess/step2](https://github.com/hwookim/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/140) |
 
 <br/>
 
