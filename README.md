@@ -63,12 +63,6 @@
 
 <br/>
 
-## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
-
-### 발표 주제 : 빌드와 배포
-
-- [우의 Sync Async Block Non-block || Youtube](https://www.youtube.com/watch?v=IdpkfygWIMk&list=PLaKTYW5EVqRfSpfHML3RxpVo8dIrGvxis&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
-
 ## 🐥 Level 3 : 팀 프로젝트
 
 ### 기간
@@ -101,6 +95,13 @@
 ### 진행 미션
 
 - comming soon...
+
+## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+
+### 발표 주제 : 빌드와 배포
+
+- [우의 Sync Async Block Non-block || Youtube](https://www.youtube.com/watch?v=IdpkfygWIMk&list=PLaKTYW5EVqRfSpfHML3RxpVo8dIrGvxis&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+
 
 ## 🗃 Javable : 우아한테크코스 코드 리뷰 모음 블로그
 
