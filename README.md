@@ -52,14 +52,13 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/hwookim/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/37) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/hwookim/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/87) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/hwookim/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/122) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/hwookim/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/209) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/hwookim/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/6) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/hwookim/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/47) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/hwookim/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/52) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/hwookim/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/54) |
+|     체스 / step1     | [jwp-chess/step1](https://github.com/hwookim/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/24) |
+|     체스 / step2     | [jwp-chess/step2](https://github.com/hwookim/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/78) |
+|     체스 / step3     | [jwp-chess/step3](https://github.com/hwookim/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/175) |
+|     체스 / step4     | [jwp-chess/step4](https://github.com/hwookim/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/175) |
+|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/hwookim/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/46) |
+|   지하철 경로 조회   | [atdd-subway-path](https://github.com/hwookim/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/40) |
+| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/hwookim/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/37) |
 
 <br/>
 
@@ -74,9 +73,7 @@
 - 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 - 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
 
-### 진행 미션
-
-- 
+- [도란도란](https://github.com/woowacourse-teams/2020-doran-doran)
 
 ## 🐓 Level 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
 
@@ -94,7 +91,13 @@
 
 ### 진행 미션
 
-- comming soon...
+|       Project        |                          Repository                          |                         Pull Request                         |
+| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 리팩토링 / step1 | [jwp-chess/step1](https://github.com/hwookim/jwp-chess/tree/mission1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/2) |
+| 리팩토링 / step2 | [jwp-chess/step2](https://github.com/hwookim/jwp-chess/tree/mission2) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/15)|
+| 리팩토링 / step3 | [jwp-chess/step3](https://github.com/hwookim/jwp-chess/tree/mission3) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/55)|
+
+
 
 ## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
