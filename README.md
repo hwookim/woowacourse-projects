@@ -102,11 +102,11 @@
 
 ### 서비스
 
-- [Javable 블로그](https://woowacourse.github.io/javable/)
+- [Javable 블로그](https://woowacourse.github.io/tecoble/)
 
 ### Github Repository
 
-- [javable](https://github.com/woowacourse/javable)
+- [javable](https://github.com/woowacourse/tecoble)
 
 ### 활동 내용
 
