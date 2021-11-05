@@ -108,7 +108,7 @@
 
 - [javable](https://github.com/woowacourse/tecoble)
 
-### 활동 내용
+### [활동 내용](https://tecoble.techcourse.co.kr/author/2-%EA%B8%B0-%EC%9A%B0/)
 
 - [기능 구현 - 블로그 게시글 공유 기능](https://woowacourse.github.io/tecoble/post/2020-10-16-is-ok-mockito/)
 - [프로퍼티 파일을 활용해 쉽게 실행환경 분리하기](https://woowacourse.github.io/tecoble/post/2020-09-21-application-properties/)
