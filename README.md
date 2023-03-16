@@ -110,7 +110,7 @@
 
 ### [활동 내용](https://tecoble.techcourse.co.kr/author/2-%EA%B8%B0-%EC%9A%B0/)
 
-- [기능 구현 - 블로그 게시글 공유 기능](https://woowacourse.github.io/tecoble/post/2020-10-16-is-ok-mockito/)
+- [Mockito, 이대로 괜찮은가?](https://woowacourse.github.io/tecoble/post/2020-10-16-is-ok-mockito/)
 - [프로퍼티 파일을 활용해 쉽게 실행환경 분리하기](https://woowacourse.github.io/tecoble/post/2020-09-21-application-properties/)
 - [상태코드, 뭘 줘야할까?](https://woowacourse.github.io/tecoble/post/2020-08-31-http-status-code/)
 - [custom exception을 언제 써야할까?](https://woowacourse.github.io/tecoble/post/2020-08-17-custom-exception/)
